@@ -26,7 +26,7 @@ li a hover {
 }
 nav {
     background-color: crimson;
-    height: 200px;
+    height: 200vh;
     float: left;
 }
 #Introduction{
@@ -43,4 +43,5 @@ nav {
 }
 img{
     width:250px;
+
 }
