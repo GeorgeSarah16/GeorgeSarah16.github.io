@@ -29,3 +29,8 @@ li a {
 li a hover {
     background-color: #555;
 }
+nav {
+    background-color: crimson;
+    height: 100vh;
+    float: left;
+}
