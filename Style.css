@@ -3,11 +3,11 @@
 }
 h1{
     text-align:center;
-    background-color:dodgerblue
+    background-color:crimson
 }
 #Purpose
 {
-    background-color: dodgerblue;
+    background-color:crimson;
     color:white
 }
 ul {
@@ -33,4 +33,7 @@ nav {
     background-color: crimson;
     height: 100vh;
     float: left;
+}
+#Introduction{
+
 }
