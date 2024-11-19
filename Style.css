@@ -1,5 +1,5 @@
 ﻿body{
-    background-color:white
+    background-color:white;
 }
 h1{
     text-align:center;
@@ -31,4 +31,10 @@ nav {
 }
 #Introduction{
     text-align:center;
+}
+#ProfSkils{
+    list-style:circle;
+}
+#GoodSkills{
+    list-style:circle;
 }

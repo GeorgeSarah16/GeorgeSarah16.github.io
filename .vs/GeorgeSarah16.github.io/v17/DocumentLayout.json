@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "history.html",
+              "DocumentMoniker": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\history.html",
+              "RelativeDocumentMoniker": "history.html",
+              "ToolTip": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\history.html",
+              "RelativeToolTip": "history.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-19T19:46:18.889Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -62,26 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "history.html",
-              "DocumentMoniker": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\history.html",
-              "RelativeDocumentMoniker": "history.html",
-              "ToolTip": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\history.html",
-              "RelativeToolTip": "history.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T19:46:18.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "skills.html",
               "DocumentMoniker": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\skills.html",
               "RelativeDocumentMoniker": "skills.html",
               "ToolTip": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\skills.html",
               "RelativeToolTip": "skills.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-19T19:45:55.856Z",
               "EditorCaption": ""
@@ -94,7 +94,7 @@
               "RelativeDocumentMoniker": "project.html",
               "ToolTip": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\project.html",
               "RelativeToolTip": "project.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-19T19:45:47.215Z",
               "EditorCaption": ""
@@ -107,7 +107,7 @@
               "RelativeDocumentMoniker": "about.html",
               "ToolTip": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\about.html",
               "RelativeToolTip": "about.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-19T19:40:21.172Z",
               "EditorCaption": ""
@@ -120,7 +120,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\skgeo\\source\\repos\\GeorgeSarah16.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-19T15:26:17.522Z",
               "EditorCaption": ""
